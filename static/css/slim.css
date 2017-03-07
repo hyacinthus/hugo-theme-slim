@@ -6,8 +6,9 @@ html {
 *:after {
   box-sizing: inherit; }
 
-body {
-  margin: 0; }
+/* comment for mobile*/
+/*body {*/
+  /*margin: 0; }*/
 
 a {
   background-color: transparent; }
